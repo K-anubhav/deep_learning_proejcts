@@ -1,3 +1,6 @@
+# 2. Working with Callbacks
+
+
 # Objective:
 The objective of this project is to classify data into different categories using deep learning techniques. The project involves building four different models using different activation functions, optimizers, and initializers to analyze the training process and evaluate their performance. The project also involves implementing various callbacks, including custom callbacks to improve the model's accuracy.
 
